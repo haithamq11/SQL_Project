@@ -17,3 +17,15 @@ We are trying to answer the following questions:
 The scale model cars database schema.
 
 ![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/structure%20of%20db.png)
+
+
+It contains eight tables:
+
+**Customers:** customer data
+**Employees:** all employee information
+**Offices:** sales office information
+**Orders:** customers' sales orders
+**OrderDetails:** sales order line for each sales order
+**Payments:** customers' payment records
+**Products:** a list of scale model cars
+**ProductLines:** a list of product line categories
