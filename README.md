@@ -41,3 +41,30 @@ Here are the tables, attributes of each table and number of rows
 
 ![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/tables%20and%20records.png)
 
+
+## Conclusion
+
+Here are the answers to our questions.
+
+**Question 1:** Which products should we order more of or less of?
+
+Classic cars are the priority for restocking. They sell frequently, and they are the highest-performance products.
+
+![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/question%201.png)
+
+**Question 2:** How should we match marketing and communication strategies to customer behaviors?
+
+VIP customers
+
+![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/question%202.png)
+
+Least engaged customers
+
+![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/question%202%20part%202.png)
+
+**Question 3:** How much can we spend on acquiring new customers?
+
+![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/question%203.png)
+
+
+LTV tells us how much profit an average customer generates during their lifetime with our store. We can use it to predict our future profit. So, if we get ten new customers next month, we'll earn 390,395 dollars, and we can decide based on this prediction how much we can spend on acquiring new customers.
