@@ -22,10 +22,22 @@ The scale model cars database schema.
 It contains eight tables:
 
 **Customers:** customer data
+
 **Employees:** all employee information
+
 **Offices:** sales office information
+
 **Orders:** customers' sales orders
+
 **OrderDetails:** sales order line for each sales order
+
 **Payments:** customers' payment records
+
 **Products:** a list of scale model cars
+
 **ProductLines:** a list of product line categories
+
+Here are the tables, attributes of each table and number of rows
+
+![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/tables%20and%20records.png)
+
