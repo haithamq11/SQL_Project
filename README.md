@@ -16,4 +16,4 @@ We are trying to answer the following questions:
 
 The scale model cars database schema.
 
-[image](https://github.com/haithamq11/SQL_Project/blob/main/structure%20of%20db.png)
+![This is an image](https://github.com/haithamq11/SQL_Project/blob/main/structure%20of%20db.png)
